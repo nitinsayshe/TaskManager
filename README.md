@@ -8,6 +8,7 @@ We used multiple functional components ex. Header to hold the input field and ad
 -	Header includes the Button to add the task.
 -	Two input field is used to get the input from user, first for the Name of the Task and second is a date and time picker to select the date and time from calendar.
 -	Check box is given to specify the reminder is on or off, (optional)
+
 -	Save button is used to save the task in backend. 
 ### Built With
 -	React .js  - Library for building user interface
@@ -48,7 +49,7 @@ Use the useState() to hook the data of the tasks components. It include all the 
 
 
 ### Task Component
-This component include the task fields, name in <h3> and <p> tag specify the time, and  react icon –FaTimes having event listener onClick to delete the task.
+This component include the task fields, name in <h3> & <p> tag specify the time, and  react icon –FaTimes having event listener onClick to delete the task.
 
 
 
