@@ -81,7 +81,7 @@ function App() {
        
     <Router>
     <div className='container'>
-      <Header
+      <Header title={"Task Manager"}
         onAdd={() => setShowAddTask(!showAddTask)}
         showAdd={showAddTask}
       />

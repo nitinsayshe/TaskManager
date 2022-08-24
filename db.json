@@ -1,15 +1,15 @@
 {
   "tasks": [
     {
-      "text": "Nitin Sayshe",
-      "day": "",
+      "text": "lear the UPI ",
+      "day": "8/4/2022, 1:30:00 AM",
       "reminder": false,
       "id": 1
     },
     {
-      "text": "jhjksd",
-      "day": "8/5/2022, 12:00:00 AM",
-      "reminder": false,
+      "text": "set the room",
+      "day": "",
+      "reminder": true,
       "id": 2
     }
   ]

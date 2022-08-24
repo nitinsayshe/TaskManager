@@ -17,7 +17,6 @@ function AddTask({ onAdd }) {
             alert('Please add a task')
             return
         }
-   
         day = day.toLocaleString({timeZone: 'Asia/Kolkata'})
         onAdd({ text, day, reminder })
         setText('')

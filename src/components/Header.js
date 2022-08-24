@@ -7,10 +7,7 @@ function Header({ title, onAdd, showAdd }) {
     <header className='header'>
       <h1>{title}</h1>
       {location.pathname==="/" && (
-        <Button
-        color={showAdd ? 'red' : 'green'}
-        text={showAdd ? "Close" : "Add"}
-        onClick={onAdd} />
+        <Button color={showAdd ? 'red' : 'green'} text={showAdd ? "Close" : "Add"} onClick={onAdd} />
       )}
       
     </header>
