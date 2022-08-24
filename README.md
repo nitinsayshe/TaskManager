@@ -49,7 +49,7 @@ Use the useState() to hook the data of the tasks components. It include all the 
 
 
 ### Task Component
-This component include the task fields, name in <h3> & <p> tag specify the time, and  react icon –FaTimes having event listener onClick to delete the task.
+This component include the task fields, name in `<h3> & <p>` tag specify the time, and  react icon –FaTimes having event listener onClick to delete the task.
 
 
 
